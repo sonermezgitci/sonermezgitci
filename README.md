@@ -1,7 +1,6 @@
 ### Hi there, I'm Soner - [Wikipedia][website] 👋
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sonermezgitci?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzaH3S3RW1sdCc_tJFjBIPQ?style=social)
                         
 
