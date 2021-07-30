@@ -46,31 +46,18 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [STACKr News Shorts - Issue 4 - Solve This Coding Question To Win $200](https://www.youtube.com/watch?v=fg7ccFTJ4gI)
-- [STACKr News Shorts - Issue 4 - How I Built the Portfolio That Landed Me a Dev Role](https://www.youtube.com/watch?v=2k0icnHfCC0)
-- [STACKr News Shorts - Issue 4 - "Just Build It" ...but what if I don't know how?](https://www.youtube.com/watch?v=NdXRrAnfeOM)
-- [STACKr News Shorts - Issue 4 - Low-Code Tutorial – Build 3 Financial Apps](https://www.youtube.com/watch?v=iG-Vx6L-L68)
-- [STACKr News Shorts - Issue 4 - Web Dev Highlights](https://www.youtube.com/watch?v=kJIxWO9Vt_w)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Adding Fibonacci Numbers With Using Recursion Function](https://mezgitci9.medium.com/adding-fibonacci-numbers-with-using-recursion-function-6fe1cfdb0948)
+- [Memoization In JavaScript](https://mezgitci9.medium.com/memoization-in-javascript-f76b335292ac)
+- [JavaScript Spread & Rest Operators](https://mezgitci9.medium.com/javascspread-rest-operators-2435066f5fbf)
+- [Finding a Node In a BST](https://mezgitci9.medium.com/finding-a-node-in-a-bst-64771a1c3536)
+- [React Hook useState()](https://mezgitci9.medium.com/react-hook-usestate-5b0699ac3a)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://mezgitci9.medium.com/)
 
 ---
 
