@@ -45,7 +45,7 @@
 
 ---
 
-
+![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
