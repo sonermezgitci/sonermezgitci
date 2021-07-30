@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/sonermezgitci?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzaH3S3RW1sdCc_tJFjBIPQ?style=social)]
 
-## I'm a Former Pro athlete , Software Engineer!!
+## I'm a Former Pro Athlete , Software Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
