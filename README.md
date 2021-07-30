@@ -96,7 +96,7 @@
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/sonermezgitci
 [youtube]: https://www.youtube.com/channel/UCzaH3S3RW1sdCc_tJFjBIPQ
 [instagram]:https://www.instagram.com/sonermezgitci9/channel/?hl=en
 [linkedin]: https://www.linkedin.com/in/sonermezgitci/
