@@ -57,7 +57,8 @@
 ---
 
 
-[![Soner's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonermezgitci)](https://github.com/anuraghazra/github-readme-stats)
+[![Soner's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonermezgitciheme=dark&show_icons=true)
+)](https://github.com/sonermezgitci/github-readme-stats)
 
 
 
