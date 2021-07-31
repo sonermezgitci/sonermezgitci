@@ -60,7 +60,7 @@
 
 
 <a href="https://github.com/sonermezgitci/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sonermezgitci&theme=chartreuse-dark&show_icons=true&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sonermezgitci&repo=github-readme-stats" />
 </a>
 
 
