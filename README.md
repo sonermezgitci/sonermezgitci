@@ -1,7 +1,7 @@
 ### Hi there, I'm Soner - [Wikipedia][website] 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/sonermezgitci?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=sonermezgitci)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzaH3S3RW1sdCc_tJFjBIPQ?style=social)
-
+                        
 
 ## I'm a Former Pro Athlete , Software Engineer!!
 
@@ -11,7 +11,6 @@
 - ⚡ Fun fact: I love to watch sports and discover new places.
 
 
-[![Soner's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonermezgitci&theme=chartreuse-dark&show_icons=true)](https://github.com/sonermezgitci/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonermezgitci&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
@@ -57,6 +56,8 @@
 
 ---
 
+[![Soner's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonermezgitci&theme=chartreuse-dark&show_icons=true)](https://github.com/sonermezgitci/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonermezgitci&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -67,4 +68,3 @@
 [youtube]: https://www.youtube.com/channel/UCzaH3S3RW1sdCc_tJFjBIPQ
 [instagram]:https://www.instagram.com/sonermezgitci9/
 [linkedin]: https://www.linkedin.com/in/sonermezgitci/
-
