@@ -69,4 +69,5 @@
 [twitter]: https://twitter.com/sonermezgitci
 [instagram]:https://www.instagram.com/sonermezgitci9/
 [linkedin]: https://www.linkedin.com/in/sonermezgitci/
-[youtube]: https://www.youtube.com/channel/  ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzaH3S3RW1sdCc_tJFjBIPQ?style=social)
+[youtube]: https://www.youtube.com/channel/  
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzaH3S3RW1sdCc_tJFjBIPQ?style=social)
