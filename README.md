@@ -56,11 +56,11 @@
 
 ---
 
-<details>
+
 [![Soner's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonermezgitci)](https://github.com/anuraghazra/github-readme-stats)
 
 
-</details>
+
 
 [website]: https://en.wikipedia.org/wiki/Soner_Mezgit%C3%A7i
 [twitter]: https://twitter.com/sonermezgitci
