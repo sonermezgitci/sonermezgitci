@@ -4,9 +4,9 @@
                      
 
 - 🔭 I’m currently working on my own projects  
-- 🌱 I’m currently learning ’m currently learning everything 🤣 
+- 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate on other software engineers 
-- 🤔 I’m looking for help with Contribute more to Open Source projects 
+- 🤔 I’m looking for help with contribute more to open source projects 
 - 📫 How to reach me: sonermezgitci9@gmail.com 
 - ⚡ Fun fact: I love to watch sports and discover new places. 
 
