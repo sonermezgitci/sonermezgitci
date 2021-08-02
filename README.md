@@ -11,6 +11,25 @@
 - ⚡ Fun fact: I love to watch sports and discover new places.
 
 
+### Hi there 👋, my name is Soner 👋
+#### I am Software Engineer 
+Software Engineer with a background in real estate and sports· Building interactive websites and web apps that allow people to communicate and interact.
+
+
+Skills: RUBY & RAILS | REACT & REDUX  | JS | HTML | CSS
+
+- 🔭 I’m currently working on On my own projects  
+- 🌱 I’m currently learning ’m currently learning everything 🤣 
+- 👯 I’m looking to collaborate on other content creators 
+- 🤔 I’m looking for help with Contribute more to Open Source projects 
+- 📫 How to reach me: sonermezgitci9@gmail.com 
+- ⚡ Fun fact: I love to watch sports and discover new places. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sonermezgitci)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sonermezgitci/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ssanders01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sonermezgitci9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sonermezgitci)  
+
+
+
 
 ### Connect with me:
 
