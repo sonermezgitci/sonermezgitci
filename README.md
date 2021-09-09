@@ -33,6 +33,9 @@ sonermezgitci9@gmail.com | [Github](https://github.com/sonermezgitci)| [LinkedIn
 <img align="left" alt="GitHub" width="70px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br/>
+<br/>
+
 
 ### TECHNICAL PROJECTS 
 Covid-19 Hunter | Full Stack Software Developer - [Frontend](https://github.com/sonermezgitci/covid19-frontend) & [Backend](https://github.com/sonermezgitci/covid19-backend) 
