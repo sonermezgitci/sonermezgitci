@@ -60,6 +60,7 @@ Built a web application with SQL, JS, RestAPI, and markup to gather data for the
 
 ### EXPERIENCE
 Le Reveil Coffee Company LLC | Partner | New York NY | 2017 - 2019
+
 Planned, constructed, and opened a business competing with publicly traded brands such as Starbucks and Dunkin Brands Group
 - Oversaw decision making of marketing and branding strategies.
 - Increased revenue by 28% via applying digital marketing best practices, analyzing and following patterns in the sector, and hiring influencer marketing professionals.
@@ -73,6 +74,7 @@ Planned, constructed, and opened a business competing with publicly traded brand
 - Ran reports and data analytics to track revenue, growth on certain sold items, and decided on upselling techniques.
 
 Unique Settings Of New York | Product Manager Assistant | New York NY | 2014 - 2017
+
 (Assisted product managers to run a luxurious high end jewelry company based in New York City)
 - Improved auction process for sale items; increased sales by 15% by adopting professional auction strategies. 
 - Solved issues of 150 team members who work in production of jewelry. 
@@ -80,6 +82,7 @@ Unique Settings Of New York | Product Manager Assistant | New York NY | 2014 - 2
 
 Professional Clubs & National Team of Turkey| Professional Volleyball Player | 1999 - 2013
 (Professionally played volleyball for various clubs in Turkey and in Europe) 
+
 - Led team to victory 10 times during Turkish Men’s Volleyball League Championships 
 - Won University Olympic Games Gold Medal in the Turkish National Team.
 
