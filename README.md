@@ -66,6 +66,9 @@
 [linkedin]: https://www.linkedin.com/in/sonermezgitci/
 [youtube]: https://www.youtube.com/channel/  
 
+<br />
+<br />
+
 # Soner Mezgitci Resume
 sonermezgitci9@gmail.com | [Github](https://github.com/sonermezgitci)| [LinkedIn](https://www.linkedin.com/in/sonermezgitci/) | [Medium](https://mezgitci9.medium.com/)
 
