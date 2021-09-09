@@ -10,11 +10,6 @@
 - 📫 How to reach me: sonermezgitci9@gmail.com 
 - ⚡ Fun fact: I love to watch sports and discover new places. 
 
-# Soner Mezgitci 
-sonermezgitci9@gmail.com | [Github](https://github.com/sonermezgitci)| [LinkedIn](https://www.linkedin.com/in/sonermezgitci/) | [Medium](https://mezgitci9.medium.com/)
-
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sonermezgitci)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sonermezgitci/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ssanders01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sonermezgitci9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sonermezgitci)  
 
 
