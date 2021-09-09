@@ -34,6 +34,7 @@
 
 ### TECHNICAL PROJECTS 
 Covid-19 Hunter | Full Stack Software Developer - [Frontend](https://github.com/sonermezgitci/covid19-frontend) & [Backend](https://github.com/sonermezgitci/covid19-backend) 
+
 Application designed to process, analyze, and render Covid-19 data visually. 
 - Implemented frontend with JavaScript for symptoms and users generated applying Ruby on Rails
 - Built a Ruby On Rails API backend powered by PostgreSQL using self referential relationship
@@ -42,6 +43,7 @@ Application designed to process, analyze, and render Covid-19 data visually.
 
 
 Find My Contract - [Frontend](https://github.com/sonermezgitci/findmycontract-frontend) & [Backend](https://github.com/sonermezgitci/FindMyContract)
+
 App uses RESTful API and algorithms to eliminate the need of costly agent contracts for professional athletes. 
 - Implemented frontend with React- Redux for Players, generated applying Ruby on Rail
 - Built a Ruby On Rails API backend powered by MongoDB using self referential relationship 
@@ -51,6 +53,7 @@ App uses RESTful API and algorithms to eliminate the need of costly agent contra
 
 
 SoccerLand - [Frontend]() & [Backend](https://github.com/sonermezgitci/FindMyContract_backend) 
+
 Built a web application with SQL, JS, RestAPI, and markup to gather data for the players and teams in the Premier League in England. 
 - Styled with Semantic UI and custom CSS to refine client-side interaction and user experience
 - Created visual design with custom CSS and HTML for the improvement of user experience 
