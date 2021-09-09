@@ -73,7 +73,7 @@ sonermezgitci@gmail.com | [Github](https://github.com/sonermezgitci)| [LinkedIn]
 JavaScript (ES6), React, Redux, NextJS, JQuery, Ruby on Rails, DBMS (MongoDB, SQL, PostgreSQL), HTML5/CSS3, RESTful API, UI/UX, Agile/Scrum, Memcache, Design patterns, OOP, Various Data Structures & Algorithms, Test-driven development, OAuth, JWTs, Git, Websockets
 
 ### TECHNICAL PROJECTS 
-**Covid-19 Hunter | Full Stack Software Developer ** - [Frontend](https://github.com/sonermezgitci/covid19-frontend) & [Backend](https://github.com/sonermezgitci/covid19-backend) | [Demo](https://www.youtube.com/watch?v=3LBGgAC0hVM&feature=youtu.be)
+Covid-19 Hunter | Full Stack Software Developer - [Frontend](https://github.com/sonermezgitci/covid19-frontend) & [Backend](https://github.com/sonermezgitci/covid19-backend) 
 Application designed to process, analyze, and render Covid-19 data visually. 
 - Implemented frontend with JavaScript for symptoms and users generated applying Ruby on Rails
 - Built a Ruby On Rails API backend powered by PostgreSQL using self referential relationship
@@ -81,7 +81,7 @@ Application designed to process, analyze, and render Covid-19 data visually.
 - Achieved 80% unit-test coverage as part of the CI/CD pipeline using Docker
 
 
-**Find My Contract ** - [Frontend](https://github.com/sonermezgitci/findmycontract-frontend) & [Backend](https://github.com/sonermezgitci/FindMyContract) | [Demo](https://www.youtube.com/watch?v=QZEsGHZpaoo&feature=youtu.be)
+Find My Contract - [Frontend](https://github.com/sonermezgitci/findmycontract-frontend) & [Backend](https://github.com/sonermezgitci/FindMyContract)
 App uses RESTful API and algorithms to eliminate the need of costly agent contracts for professional athletes. 
 - Implemented frontend with React- Redux for Players, generated applying Ruby on Rail
 - Built a Ruby On Rails API backend powered by MongoDB using self referential relationship 
@@ -90,7 +90,7 @@ App uses RESTful API and algorithms to eliminate the need of costly agent contra
 
 
 
-**SoccerLand** - [Frontend]() & [Backend](https://github.com/sonermezgitci/FindMyContract_backend) | [Demo](https://www.youtube.com/watch?v=7cNyoHjJjiw&feature=youtu.be)
+SoccerLand - [Frontend]() & [Backend](https://github.com/sonermezgitci/FindMyContract_backend) 
 Built a web application with SQL, JS, RestAPI, and markup to gather data for the players and teams in the Premier League in England. 
 - Styled with Semantic UI and custom CSS to refine client-side interaction and user experience
 - Created visual design with custom CSS and HTML for the improvement of user experience 
@@ -98,24 +98,8 @@ Built a web application with SQL, JS, RestAPI, and markup to gather data for the
 - Created initial UML diagrams showing data model and data structures
 
 
-
-
-
-### HACKATHONS & CONFERENCES
-[HarmonyHacks2](https://devpost.com/software/record-me) (Implemented Push Notification with React Native)   | 07/06/2020-08/07/2020
-
-[Girls in Tech Virtual Hackathon](https://devpost.com/software/help-home) (Develped RoR RESTful API backend) | 06/02/2020-06/19/2020
-
-[Women of React Online Conference](https://womenofreact.com/) (Moderator in Discord Channel) | 04/25/2020
-
-Shanghai High School Student Web Design Competition (Won second place) | 05/2004
-
-
-
-
-
 ### EXPERIENCE
-**Le Reveil Coffee Company LLC **, Partner	, New York NY | 2017 - 2019
+Le Reveil Coffee Company LLC | Partner | New York NY | 2017 - 2019
 Planned, constructed, and opened a business competing with publicly traded brands such as Starbucks and Dunkin Brands Group
 - Oversaw decision making of marketing and branding strategies.
 - Increased revenue by 28% via applying digital marketing best practices, analyzing and following patterns in the sector, and hiring influencer marketing professionals.
@@ -128,19 +112,19 @@ Planned, constructed, and opened a business competing with publicly traded brand
 - Directly hired all employees and created a structured employee feedback and success system.
 - Ran reports and data analytics to track revenue, growth on certain sold items, and decided on upselling techniques.
 
-**Unique Settings Of New York**, Product Manager Assistant, New York NY | 2014 - 2017
+Unique Settings Of New York | Product Manager Assistant | New York NY | 2014 - 2017
 (Assisted product managers to run a luxurious high end jewelry company based in New York City)
 - Improved auction process for sale items; increased sales by 15% by adopting professional auction strategies. 
 - Solved issues of 150 team members who work in production of jewelry. 
 -Conducted meetings regularly and defined a work order process and pipeline.
 
-**Professional Clubs & National Team of Turkey**, Professional Volleyball Player, | 1999 - 2013
+Professional Clubs & National Team of Turkey| Professional Volleyball Player | 1999 - 2013
 (Professionally played volleyball for various clubs in Turkey and in Europe) 
 - Led team to victory 10 times during Turkish Men’s Volleyball League Championships 
 - Won University Olympic Games Gold Medal in the Turkish National Team.
 
 ### EDUCATION
 
-**Flatiron School of Software Development**,New York City | 2020 -2021
+Flatiron School of Software Development| New York City | 2020 -2021
 
-**Istanbul University**, Istanbul,Turkey |1999 - 2002
+Istanbul University | Credits towards a Bachelors of Arts, Sports Education | Istanbul,Turkey |1999 - 2002
