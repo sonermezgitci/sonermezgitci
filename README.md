@@ -67,7 +67,7 @@
 [youtube]: https://www.youtube.com/channel/  
 
 # Soner Mezgitci Resume
-sonermezgitci@gmail.com | [Github](https://github.com/sonermezgitci)| [LinkedIn](https://www.linkedin.com/in/sonermezgitci/) | [Medium](https://mezgitci9.medium.com/)
+sonermezgitci9@gmail.com | [Github](https://github.com/sonermezgitci)| [LinkedIn](https://www.linkedin.com/in/sonermezgitci/) | [Medium](https://mezgitci9.medium.com/)
 
 ### TECHNICAL SKILLS
 JavaScript (ES6), React, Redux, NextJS, JQuery, Ruby on Rails, DBMS (MongoDB, SQL, PostgreSQL), HTML5/CSS3, RESTful API, UI/UX, Agile/Scrum, Memcache, Design patterns, OOP, Various Data Structures & Algorithms, Test-driven development, OAuth, JWTs, Git, Websockets
