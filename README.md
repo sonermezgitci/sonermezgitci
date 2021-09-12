@@ -10,6 +10,8 @@
 - 📫 How to reach me: sonermezgitci9@gmail.com 
 - ⚡ Fun fact: I love to watch sports and discover new places. 
 
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sonermezgitci)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sonermezgitci/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ssanders01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sonermezgitci9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sonermezgitci)  
 
 
@@ -28,72 +30,6 @@
 <img align="left" alt="GitHub" width="70px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br/>
-<br/>
-
-
-### TECHNICAL PROJECTS 
-Covid-19 Hunter | Full Stack Software Developer - [Frontend](https://github.com/sonermezgitci/covid19-frontend) & [Backend](https://github.com/sonermezgitci/covid19-backend) 
-
-Application designed to process, analyze, and render Covid-19 data visually. 
-- Implemented frontend with JavaScript for symptoms and users generated applying Ruby on Rails
-- Built a Ruby On Rails API backend powered by PostgreSQL using self referential relationship
-- Styled with Semantic UI and custom CSS to refine client-side interaction and user experience
-- Achieved 80% unit-test coverage as part of the CI/CD pipeline using Docker
-
-
-Find My Contract - [Frontend](https://github.com/sonermezgitci/findmycontract-frontend) & [Backend](https://github.com/sonermezgitci/FindMyContract)
-
-App uses RESTful API and algorithms to eliminate the need of costly agent contracts for professional athletes. 
-- Implemented frontend with React- Redux for Players, generated applying Ruby on Rail
-- Built a Ruby On Rails API backend powered by MongoDB using self referential relationship 
-- Styled with Semantic UI and custom CSS to refine client-side interaction and user experience 
-- Implemented search and matching real-time algorithms using redis 
-
-
-
-SoccerLand - [Frontend]() & [Backend](https://github.com/sonermezgitci/FindMyContract_backend) 
-
-Built a web application with SQL, JS, RestAPI, and markup to gather data for the players and teams in the Premier League in England. 
-- Styled with Semantic UI and custom CSS to refine client-side interaction and user experience
-- Created visual design with custom CSS and HTML for the improvement of user experience 
-- Generated a scalable database by designing RESTful APIs service with Ruby on Rails and SQL
-- Created initial UML diagrams showing data model and data structures
-
-
-### EXPERIENCE
-Le Reveil Coffee Company LLC | Partner | New York NY | 2017 - 2019
-
-Planned, constructed, and opened a business competing with publicly traded brands such as Starbucks and Dunkin Brands Group
-- Oversaw decision making of marketing and branding strategies.
-- Increased revenue by 28% via applying digital marketing best practices, analyzing and following patterns in the sector, and hiring influencer marketing professionals.
-- Engaged and became a member of NYC NeON program to deliver feedback and get up to date events regarding the neighborhood to help decision making related to business and foot traffic.
-- Decreased spending by 11% by vendor research, competitive negotiations, scheduling and applying strict rules of preparation of each product.
-- Introduced additional products for sale to increase foot traffic which helped ancillary revenue to top 14% of overall revenue.
-- Achieved “Top 50 Coffee Shops” ranking in Yelp within 2 years of operation.
-- Received an invitation and attended the NYC Coffee Festival for 2 consecutive years in 2018 and 2019.
-- Setup a hospitable work environment, set rules and guidelines for employees, and be involved in team building meetings.
-- Directly hired all employees and created a structured employee feedback and success system.
-- Ran reports and data analytics to track revenue, growth on certain sold items, and decided on upselling techniques.
-
-Unique Settings Of New York | Product Manager Assistant | New York NY | 2014 - 2017
-
-(Assisted product managers to run a luxurious high end jewelry company based in New York City)
-- Improved auction process for sale items; increased sales by 15% by adopting professional auction strategies. 
-- Solved issues of 150 team members who work in production of jewelry. 
--Conducted meetings regularly and defined a work order process and pipeline.
-
-Professional Clubs & National Team of Turkey| Professional Volleyball Player | 1999 - 2013
-(Professionally played volleyball for various clubs in Turkey and in Europe) 
-
-- Led team to victory 10 times during Turkish Men’s Volleyball League Championships 
-- Won University Olympic Games Gold Medal in the Turkish National Team.
-
-### EDUCATION
-
-Flatiron School of Software Development| New York City | 2020 -2021
-
-Istanbul University | Credits towards a Bachelors of Arts, Sports Education | Istanbul,Turkey |1999 - 2002
 
 <br />
 <br />
@@ -129,6 +65,4 @@ Istanbul University | Credits towards a Bachelors of Arts, Sports Education | Is
 [instagram]:https://www.instagram.com/sonermezgitci9/
 [linkedin]: https://www.linkedin.com/in/sonermezgitci/
 [youtube]: https://www.youtube.com/channel/  
-
-
 
