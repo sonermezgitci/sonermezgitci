@@ -39,13 +39,6 @@
 ![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Adding Fibonacci Numbers With Using Recursion Function](https://mezgitci9.medium.com/adding-fibonacci-numbers-with-using-recursion-function-6fe1cfdb0948)
-- [Memoization In JavaScript](https://mezgitci9.medium.com/memoization-in-javascript-f76b335292ac)
-- [JavaScript Spread & Rest Operators](https://mezgitci9.medium.com/javascspread-rest-operators-2435066f5fbf)
-- [Finding a Node In a BST](https://mezgitci9.medium.com/finding-a-node-in-a-bst-64771a1c3536)
-- [React Hook useState()](https://mezgitci9.medium.com/react-hook-usestate-5b0699ac3a)
-<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://mezgitci9.medium.com/)
 
